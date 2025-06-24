@@ -45,7 +45,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 <!-- Please leave a one line gap between this and the table TABLE_START (DO NOT CHANGE THIS LINE) -->
 
 | Company | Role | Location | Application/Link | Date Posted |
-| ------- | ---- | -------- | ---------------- | ----------- |
+| ------- | ---- | -------- | ---------------- | ----------- | 
+| Hitachi | AI and Data Engineer Intern | Santa Clara, California, United States | https://careers.hitachi.com/jobs/16113402-ai-and-data-engineer-intern | Jun 9, 2025 |
 | Citadel Securities | Trading Fundamental Analyst Intern | Miami, FL</br>New York, NY | <a href="https://www.citadelsecurities.com/careers/details/campus-26-trading-fundamental-analyst-intern-us/?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 16 |
 | BNP Paribas | Technology Analyst Intern | Jersey CIty, NJ | <a href="http://group.bnpparibas/en/careers/job-offer/2026-summer-analyst-internship-technology?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 16 |
 | Bank of America | Software Engineer Summer Analyst Intern | Charlotte, NC</br>Chicago, IL</br>Dallas, TX | <a href="https://careers.bankofamerica.com/en-us/students/job-detail/12942/global-technology-summer-analyst-2026-software-engineer-multiple-locations?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 16 |
